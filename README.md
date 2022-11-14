@@ -5,7 +5,7 @@ https://m2.material.io/design
 * https://developer.android.com/guide/topics/ui/look-and-feel?hl=es-419
 * https://www.materialpalette.com/
 
-Diseño de prototipo y pasarlo a android studio parte 1/3
+## Diseño de prototipo y pasarlo a android studio parte 1/3
 Adobe XD
 https://www.youtube.com/watch?v=Z3JB8f3LfEE
 
@@ -18,3 +18,6 @@ implementation 'com.google.android.material:material:1.7.0'
 * https://www.youtube.com/watch?v=KwpuAhYrIpU
 * https://www.youtube.com/watch?v=bJsrbwwk3-4
 * 
+
+## UiLover Android video
+* https://www.youtube.com/c/UiLoverAndroid/videos
